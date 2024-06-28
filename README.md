@@ -1,2 +1,2 @@
-# kleenscan--Scanner-Vb
+# kleenscan-Scanner-Vb
 kleenscan- Scanner-Vb
